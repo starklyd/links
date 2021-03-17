@@ -1,25 +1,27 @@
 <H1>Charlie Stark Links<H1>
 
 Hallways and Stairs Press
-<a href ="http://www.constantcircles.com/prem-sd002/</a>
+<a href="http://www.constantcircles.com/prem-sd002/"> Constant Circles Blog </a>
+
+
 
 UFO 4K VIDEO
-https://www.youtube.com/watch?v=TAPfLYxE2pw
+<a href="https://www.youtube.com/watch?v=TAPfLYxE2pw"</a>
 
 Hoxton FM exclusive with Dj Normski
-https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere- hoxton-fm-normski
+<a href="https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere- hoxton-fm-normski"</a>
 
 Sound of the Universe Describe as “Grinding P Funk” https://soundsoftheuniverse.com/product/ufo
-http://soundtraffic.pl/charlie-stark-ufo/
+<a href="http://soundtraffic.pl/charlie-stark-ufo/"</a>
 
 Charlie Stark ft Roots Manuva
-https://youtu.be/8jH_bSqv17s
+<a href="https://youtu.be/8jH_bSqv17s"</a>
 
 Live Mix on Represent FM
-https://soundcloud.com/paradisescientist/prologue-mix-forecast-mixtapes-reprezent-fm
+<a href="https://soundcloud.com/paradisescientist/prologue-mix-forecast-mixtapes-reprezent-fm"</a>
 
 (Alternate Alias) Paradise Scientist - Ibeyi Oya Remix
-https://soundcloud.com/paradisescientist/ibeyi-oya-paradise-scientist-remix
+<a href="https://soundcloud.com/paradisescientist/ibeyi-oya-paradise-scientist-remix"</a>
 
 Warchestra Press Links
-https://mixmag.net/read/infinite-machine-releases-debut-warsnare-album-warchestra-news/ https://uk.style.yahoo.com/premiere-warsnare-calls-vocalist-charlie-175230366.html
+<a href="https://mixmag.net/read/infinite-machine-releases-debut-warsnare-album-warchestra-news/ https://uk.style.yahoo.com/premiere-warsnare-calls-vocalist-charlie-175230366.html"</a>
