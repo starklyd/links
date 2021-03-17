@@ -23,8 +23,8 @@
 
 <br>
 
-Live Mix Global Beats Radio
-<a href="https://www.mixcloud.com/GlobalBeatsRadio/global-beats-radio-november-1st-2018-w-charlie-stark/"<Live Mix Global Beats Radio<a/>
+
+<a href="https://www.mixcloud.com/GlobalBeatsRadio/global-beats-radio-november-1st-2018-w-charlie-stark/">Live Mix Global Beats Radio<a/>
 <br>
 
 <a href="https://soundcloud.com/paradisescientist/ibeyi-oya-paradise-scientist-remix">(Alternate Alias) Paradise Scientist - Ibeyi Oya Remix</a>
