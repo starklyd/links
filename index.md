@@ -1,7 +1,7 @@
 <H1>Charlie Stark Links<H1>
 
-<H2>Hallways and Stairs Press<H2>
-<a href="http://www.constantcircles.com/prem-sd002/"> Constant Circles Blog </a> <br>
+
+<a href="http://www.constantcircles.com/prem-sd002/"> Constant Circles Charlie Stark Hallways and Stairs Premiere</a> <br>
 
 
 
