@@ -11,7 +11,7 @@
 <br>
 <a href="https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere- hoxton-fm-normski">Hoxton FM exclusive with Dj Normski</a>
 <br>
-<a href="https://soundsoftheuniverse.com/product/ufo">Sound of the Universe Describe as “Grinding P Funk”</a>
+<a href="https://soundsoftheuniverse.com/product/ufo">Sound of the Universe Describe UFO Vinyl as “Grinding P Funk”</a>
 <br>
 <a href="http://soundtraffic.pl/charlie-stark-ufo/">SoundTraffic Poland Review</a>
 <br>
