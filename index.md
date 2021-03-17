@@ -18,10 +18,13 @@
 
 <a href="https://youtu.be/8jH_bSqv17s">Charlie Stark ft Roots Manuva</a>
 <br>
-Live Mix on Represent FM
-<a href="https://soundcloud.com/paradisescientist/prologue-mix-forecast-mixtapes-reprezent-fm"</a>
+
+<a href="https://soundcloud.com/paradisescientist/prologue-mix-forecast-mixtapes-reprezent-fm">Live Mix on Represent FM</a>
+
 <br>
-Live Mix Worldwide FM
+
+Live Mix Global Beats Radio
+<a href="https://www.mixcloud.com/GlobalBeatsRadio/global-beats-radio-november-1st-2018-w-charlie-stark/"<Live Mix Global Beats Radio<a/>
 <br>
 
 <a href="https://soundcloud.com/paradisescientist/ibeyi-oya-paradise-scientist-remix">(Alternate Alias) Paradise Scientist - Ibeyi Oya Remix</a>
