@@ -1,9 +1,9 @@
 <H1>Charlie Stark Links<H1>
 
- <a href="https://charliestark.bandcamp.com/album/hallways-and-stairs"<Buy Charlie Stark Music></a>
+ <a href="https://charliestark.bandcamp.com/album/hallways-and-stairs">Buy Charlie Stark Music></a>
  <br>
 
-<a href="http://www.constantcircles.com/prem-sd002/"> Constant Circles Charlie Stark Hallways and Stairs Premiere</a> <br>
+<a href="http://www.constantcircles.com/prem-sd002/">Constant Circles Charlie Stark Hallways and Stairs Premiere</a> <br>
 
 
 
