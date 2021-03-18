@@ -10,7 +10,7 @@
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TAPfLYxE2pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/TAPfLYxE2pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <a href="https://www.youtube.com/watch?v=TAPfLYxE2pw">UFO 4K VIDEO</a>
@@ -19,6 +19,8 @@
 
 <br>
 <a href="https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere- hoxton-fm-normski">Hoxton FM exclusive with Dj Normski</a>
+<br>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283373330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/paradisescientist" title="Paradise Scientist" target="_blank" style="color: #cccccc; text-decoration: none;">Paradise Scientist</a> · <a href="https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere-hoxton-fm-normski" title="Charlie Stark UFO EP Radio Rip (World Premiere) Hoxton FM Normski" target="_blank" style="color: #cccccc; text-decoration: none;">Charlie Stark UFO EP Radio Rip (World Premiere) Hoxton FM Normski</a></div>
 <br>
 <a href="https://soundsoftheuniverse.com/product/ufo">Sound of the Universe Describe UFO Vinyl as “Grinding P Funk”</a>
 <br>
