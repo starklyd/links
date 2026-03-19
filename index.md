@@ -2,9 +2,38 @@
 
 <H1>Charlie Stark Links<H1>
 
- LONDON GIG TICKETS (Supporting TVOYA) 7/05/22
- <a href="https://www.musicroomlondon.com/event-details/chad-strentz-pete-farrugia-live-stream">Tickets</a>
- 
+Charlie Stark Links
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3NoYtliyZY?si=n38Y5X0p-8MFHIFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://ditto.fm/strange-to-be-alive
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVePcBAhW74?si=mCw6mfn6RbdE90Ij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://open.spotify.com/album/4SQhQu68J8tCcIAgmMee2Dhttps://open.spotify.com/album/4SQhQu68J8tCcIAgmMee2D
+<a href="https://open.spotify.com/album/4SQhQu68J8tCcIAgmMee2Dhttps://open.spotify.com/album/4SQhQu68J8tCcIAgmMee2D">Another Lifetime Spotify</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nseDuR6K8a4?si=tBQi91plXxodR_FL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Warchestra Ft Charlie Stark
+https://mixmag.net/read/infinite-machine-releases-debut-warsnare-album-warchestra-news/ https://uk.style.yahoo.com/premiere-warsnare-calls-vocalist-charlie-175230366.html
+
+Hallways and Stairs Press
+http://www.constantcircles.com/prem-sd002/
+
+UFO
+Hoxton FM exclusive with Dj Normski
+https://soundcloud.com/paradisescientist/charlie-stark-ufo-ep-radio-rip-world-premiere- hoxton-fm-normski
+Sound of the Universe Describe as “Grinding P Funk” https://soundsoftheuniverse.com/product/ufo
+http://soundtraffic.pl/charlie-stark-ufo/
+Charlie Stark ft Roots Manuva
+https://youtu.be/8jH_bSqv17s
+Live Mix on Represent FM
+https://soundcloud.com/paradisescientist/prologue-mix-forecast-mixtapes-reprezent-fm
+(Alternate Alias) Paradise Scientist - Ibeyi Oya Remix
+https://soundcloud.com/paradisescientist/ibeyi-oya-paradise-scientist-remix
  <br>
  
  <a href="https://charliestark.bandcamp.com/album/hallways-and-stairs">Buy Charlie Stark Music</a>
