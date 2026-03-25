@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Charlie Stark | Official Links</title>
-    <meta name="description" content="Official links for margate and deptford based avant-garde underground south london soul singer and electronic musician Charlie Stark. Music, Videos, Press, and Live Sets and performances">
+    <meta name="description" content="Official links for avant-garde electronic musician Charlie Stark. Music, Videos, Press, and Live Sets.">
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -414,8 +414,7 @@
         <!-- Hero Section -->
         <header class="hero">
             <div class="profile-image-container">
-                <!-- BASE64_IMG_HERO_PLACEHOLDER -->
-                <img src="profile.jpg" id="hero-img" alt="Charlie Stark Portrait" class="profile-image" style="object-position: center 25%;">
+                <img src="https://cdn-images.dzcdn.net/images/artist/573e96ccc46163eadb245f02bd461354/500x500-000000-80-0-0.jpg" id="hero-img" alt="Charlie Stark Portrait" class="profile-image">
                 <div class="glow-ring"></div>
             </div>
             <h1 class="artist-name">Charlie<br>Stark</h1>
@@ -426,8 +425,8 @@
         <section class="newsletter bento-card">
             <h2 class="list-title" style="margin-bottom:0.5rem;"><i class="fa-solid fa-envelope-open-text"></i> Join the Transmission</h2>
             <p style="font-size:0.9rem;">Exclusive updates on new music & secret gigs.</p>
-            <form id="newsletter-form" class="subscribe-form">
-                <input type="email" id="email-input" placeholder="Enter your email pulse..." required>
+            <form id="newsletter-form" class="subscribe-form" action="https://formspree.io/f/xvgowzrl" method="POST">
+                <input type="email" name="email" id="email-input" placeholder="Enter your email pulse..." required>
                 <button type="submit" class="btn-primary">
                     <span class="btn-text">Connect</span>
                     <i class="fa-solid fa-bolt"></i>
@@ -560,19 +559,46 @@
     </main>
 
     <script>
-        // Newsletter Form Handler
-        document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+        // Newsletter Form Handler with Formspree AJAX
+        document.getElementById('newsletter-form').addEventListener('submit', async function(e) {
             e.preventDefault();
-            const emailInput = document.getElementById('email-input');
+            const form = e.target;
+            const data = new FormData(form);
             const statusDiv = document.getElementById('form-status');
-            
-            if (emailInput.value) {
-                // Mock submission
-                emailInput.value = '';
+            const btnText = form.querySelector('.btn-text');
+            const originalBtnText = btnText.textContent;
+
+            btnText.textContent = 'Sending...';
+
+            try {
+                const response = await fetch(form.action, {
+                    method: form.method,
+                    body: data,
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                });
+
+                if (response.ok) {
+                    statusDiv.textContent = 'Transmission received. Welcome.';
+                    statusDiv.classList.add('visible');
+                    form.reset();
+                } else {
+                    const result = await response.json();
+                    statusDiv.textContent = result.errors ? result.errors.map(error => error.message).join(", ") : "Oops! There was a problem.";
+                    statusDiv.style.color = "#ff3366";
+                    statusDiv.classList.add('visible');
+                }
+            } catch (error) {
+                statusDiv.textContent = "Oops! There was a problem.";
+                statusDiv.style.color = "#ff3366";
                 statusDiv.classList.add('visible');
+            } finally {
+                btnText.textContent = originalBtnText;
                 setTimeout(() => {
                     statusDiv.classList.remove('visible');
-                }, 4000);
+                    statusDiv.style.color = "#00ff88"; // Reset color
+                }, 5000);
             }
         });
     </script>
